@@ -104,7 +104,7 @@ Hello! I'm **Aruneshwar AR**, and this is my digital learning tracker and portfo
 ## 📊 Real-Time Activity
 
 ### GitHub Activity Graph
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=AruneshwarAR&bg_color=0d1117&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=AruneshwarAR&theme=react-dark&hide_border=true&area=true)
 
 ### Contribution Calendar
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AruneshwarAR&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
@@ -151,10 +151,19 @@ I believe in learning together and sharing knowledge. Feel free to reach out for
 
 **Last Updated**: September 2025 | **Site Status**: 🟢 Active Development
 
+<!-- Markdown badges for GitHub -->
+![Profile Views](https://komarev.com/ghpvc/?username=AruneshwarAR&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/AruneshwarAR?style=social)](https://github.com/AruneshwarAR)
+
+<!-- HTML badges for web rendering -->
+<br>
 <img src="https://komarev.com/ghpvc/?username=AruneshwarAR&color=brightgreen&style=flat-square" alt="Profile Views">
-<a href="https://github.com/AruneshwarAR" target="_blank"><img src="https://img.shields.io/github/followers/AruneshwarAR?style=social" alt="GitHub followers"></a>
+<a href="https://github.com/AruneshwarAR" target="_blank">
+  <img src="https://img.shields.io/github/followers/AruneshwarAR?style=social" alt="GitHub followers">
+</a>
 
 </div>
+
 
 ---
 
