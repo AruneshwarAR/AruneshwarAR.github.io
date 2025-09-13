@@ -17,19 +17,24 @@ Hello! I'm **Aruneshwar AR**, and this is my digital learning tracker and portfo
 ## 📈 Current Learning Stats
 
 <!-- This will be updated with real data -->
+
 ### Languages I'm Mastering
+
 - **Java**: ███████░░░ 70%
 - **Python**: ██████░░░░ 60%
 - **TypeScript**: ████████░░ 80%
 - **JavaScript**: ██████░░░░ 60%
 
 ### 🔥 Current Streak
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AruneshwarAR&theme=radical&hide_border=true)
 
 ## 📚 Featured Learning Projects
 
 ### 🤖 [Test Automation Framework](https://github.com/AruneshwarAR/TypeScriptPlayWright)
+
 **TypeScript + Playwright**
+
 > Building a robust, scalable test automation framework with modern best practices.
 
 **Key Features:**
@@ -41,7 +46,9 @@ Hello! I'm **Aruneshwar AR**, and this is my digital learning tracker and portfo
 ---
 
 ### 📸 [AI-Powered Face Recognition](https://github.com/AruneshwarAR/photo-face-finder)
+
 **Python + OpenCV + ML**
+
 > Exploring computer vision and machine learning through practical implementation.
 
 **Technical Highlights:**
@@ -53,7 +60,9 @@ Hello! I'm **Aruneshwar AR**, and this is my digital learning tracker and portfo
 ---
 
 ### 🎓 [Student Management System](https://github.com/AruneshwarAR/StudentManagementApp)
+
 **Java + OOP Principles**
+
 > Demonstrating object-oriented design patterns and clean architecture.
 
 **Learning Focus:**
@@ -95,7 +104,7 @@ Hello! I'm **Aruneshwar AR**, and this is my digital learning tracker and portfo
 ## 📊 Real-Time Activity
 
 ### GitHub Activity Graph
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=AruneshwarAR&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=AruneshwarAR&bg_color=0d1117&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true)
 
 ### Contribution Calendar
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AruneshwarAR&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
@@ -111,9 +120,7 @@ I believe in learning together and sharing knowledge. Feel free to reach out for
 
 ### 📧 Get In Touch
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiaruneshwar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aruneshwar)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AruneshwarAR)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiaruneshwar@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aruneshwar) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AruneshwarAR)
 
 ## 📚 Resource Library
 
@@ -144,8 +151,8 @@ I believe in learning together and sharing knowledge. Feel free to reach out for
 
 **Last Updated**: September 2025 | **Site Status**: 🟢 Active Development
 
-![Profile Views](https://komarev.com/ghpvc/?username=AruneshwarAR&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/AruneshwarAR?style=social)](https://github.com/AruneshwarAR)
+<img src="https://komarev.com/ghpvc/?username=AruneshwarAR&color=brightgreen&style=flat-square" alt="Profile Views">
+<a href="https://github.com/AruneshwarAR" target="_blank"><img src="https://img.shields.io/github/followers/AruneshwarAR?style=social" alt="GitHub followers"></a>
 
 </div>
 
